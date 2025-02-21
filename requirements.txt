@@ -1,0 +1,10 @@
+numpy
+pandas
+datetime
+sktime
+scikit-learn
+statsmodels
+pmdarima
+streamlit
+yfinance
+setuptools
